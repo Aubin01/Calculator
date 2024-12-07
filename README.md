@@ -31,8 +31,7 @@ The project demonstrates the integration of programming language design concepts
 ### Installation Steps
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-repo/calculator-with-variables.git
-   cd calculator-with-variables
+  git clone https://github.com/Aubin01/Calculator.git
 ```
 
 2. Install required packages:
